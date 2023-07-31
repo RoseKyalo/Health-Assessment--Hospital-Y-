@@ -1,5 +1,5 @@
 # Hospital Y Records Analysis for the Year 2022
-![Health_Assesment](visualizations/readme image.jpg)
+![Health_Assesment](/visualizations/readme image.jpg)
 
 Hospital Y has sought assistance in analyzing their records for the year 2022 to make informed decisions. The dataset provided by Hospital Y is in Excel format and consists of four worksheets named 'Visit Tbl', 'Invoice Tbl', 'Diagnosis Tbl', and 'Data Dictionary'. Our objective is to answer the questions provided by the hospital using pandas data frames.
 
