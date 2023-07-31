@@ -1,5 +1,5 @@
 # Hospital Y Records Analysis for the Year 2022
-![Image Alt Text](/visualizations/readme image.jpg)
+![Image Alt Text](/visualizations/readme_image.jpg)
 
 
 
